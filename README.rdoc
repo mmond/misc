@@ -1,4 +1,4 @@
-= Miscellaneous Script Repo
+= Miscellaneous Scripts Repository
 
 Various scripts written for odd jobs
 
